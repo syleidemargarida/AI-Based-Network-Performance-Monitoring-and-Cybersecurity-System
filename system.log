@@ -1,0 +1,68 @@
+2026-04-10 00:21:03,551 - INFO - Loading data from data\temp_upload.csv
+2026-04-10 00:21:16,144 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-10 00:21:17,855 - INFO - Data shape: (547557, 89)
+2026-04-10 00:25:44,596 - INFO - Loading data from data\temp_upload.csv
+2026-04-10 00:25:56,664 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-10 00:25:58,031 - INFO - Data shape: (547557, 89)
+2026-04-10 00:26:27,243 - INFO - Training random_forest classification model
+2026-04-10 00:26:27,244 - ERROR - Error training classification model: No valid feature columns found in the dataset
+2026-04-10 00:30:50,853 - INFO - Loading data from data\temp_upload.csv
+2026-04-10 00:31:03,256 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-10 00:31:04,701 - INFO - Data shape: (547557, 89)
+2026-04-11 12:11:12,307 - INFO - Loading data from data\temp_upload.csv
+2026-04-11 12:11:21,885 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-11 12:11:23,015 - INFO - Data shape: (362075, 105)
+2026-04-11 12:32:49,793 - INFO - Loading data from data\temp_upload.csv
+2026-04-11 12:32:57,793 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-11 12:32:58,695 - INFO - Data shape: (362075, 105)
+2026-04-11 13:59:04,707 - INFO - Loading data from data\temp_upload.csv
+2026-04-11 13:59:15,146 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-11 13:59:16,225 - INFO - Data shape: (547557, 89)
+2026-04-11 13:59:51,255 - INFO - Loading data from data\temp_upload.csv
+2026-04-11 13:59:58,278 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-11 13:59:58,955 - INFO - Data shape: (362075, 89)
+2026-04-11 14:03:43,312 - INFO - Loading data from data\temp_upload.csv
+2026-04-11 14:03:50,500 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-11 14:03:51,603 - INFO - Data shape: (371621, 105)
+2026-04-11 14:14:19,397 - INFO - Loading data from data\temp_upload.csv
+2026-04-11 14:14:20,640 - INFO - Loading data from data\temp_upload.csv
+2026-04-11 14:14:23,316 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-11 14:14:23,862 - INFO - Data shape: (139074, 105)
+2026-04-11 14:14:29,953 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-11 14:14:30,986 - INFO - Data shape: (371621, 105)
+2026-04-11 14:14:32,743 - INFO - Training svm classification model
+2026-04-11 14:14:32,744 - ERROR - Error training classification model: No valid feature columns found in the dataset
+2026-04-11 14:14:43,591 - INFO - Loading data from data\temp_upload.csv
+2026-04-11 14:14:51,871 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-11 14:14:52,777 - INFO - Data shape: (371621, 105)
+2026-04-11 14:15:21,527 - INFO - Loading data from data\temp_upload.csv
+2026-04-11 14:15:29,464 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-11 14:15:30,557 - INFO - Data shape: (371621, 105)
+2026-04-11 14:15:37,282 - INFO - Loading data from data\temp_upload.csv
+2026-04-11 14:15:41,307 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-11 14:15:41,307 - INFO - Loading data from data\temp_upload.csv
+2026-04-11 14:15:42,061 - INFO - Data shape: (192980, 105)
+2026-04-11 14:15:50,026 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-11 14:15:51,099 - INFO - Data shape: (371621, 105)
+2026-04-11 14:15:53,110 - INFO - Training random_forest classification model
+2026-04-11 14:15:53,111 - ERROR - Error training classification model: No valid feature columns found in the dataset
+2026-04-11 14:17:25,759 - INFO - Loading data from data\temp_upload.csv
+2026-04-11 14:17:34,523 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-11 14:17:35,524 - INFO - Data shape: (371621, 105)
+2026-04-11 14:44:53,968 - INFO - Loading data from data\temp_upload.csv
+2026-04-11 14:45:03,560 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-11 14:45:04,559 - INFO - Data shape: (496640, 89)
+2026-04-11 15:28:40,330 - INFO - Loading data from data\temp_upload.csv
+2026-04-11 15:28:49,731 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-11 15:28:50,750 - INFO - Data shape: (496640, 89)
+2026-04-11 15:28:58,048 - INFO - Loading data from data\temp_upload.csv
+2026-04-11 15:28:59,097 - INFO - Loading data from data\temp_upload.csv
+2026-04-11 15:29:02,176 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-11 15:29:08,336 - INFO - Data shape: (16014, 89)
+2026-04-11 15:29:16,763 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-11 15:29:17,543 - INFO - Data shape: (496640, 89)
+2026-04-11 15:29:31,872 - INFO - Training anomaly detection model
+2026-04-11 15:29:31,872 - ERROR - Error training anomaly detection model: No valid feature columns found in the dataset
+2026-04-11 15:29:46,749 - INFO - Loading data from data\temp_upload.csv
+2026-04-11 15:29:55,323 - INFO - Data loaded successfully with utf-8 encoding
+2026-04-11 15:29:56,227 - INFO - Data shape: (496640, 89)
