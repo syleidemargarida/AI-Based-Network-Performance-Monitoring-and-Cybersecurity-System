@@ -1,1 +1,0 @@
-py -m pip install pandas numpy scikit-learn plotly matplotlib seaborn streamlit joblib python-dateutil watchdog
