@@ -3,7 +3,7 @@
 **Project**: AI-Based Network Performance Monitoring and Cybersecurity System  
 **Duration**: Multi-week development marathon  
 **Completion Date**: May 2026  
-**Developer**: [Your Name]
+**Developer**: Syleide Margarida & Zeenat Abdulcadre
 
 ---
 
@@ -710,4 +710,4 @@ The system successfully transforms complex network data into actionable insights
 
 ---
 
-*This work summary documents the comprehensive development effort, technical achievements, and successful delivery of the AI Network Security Monitor project.*
+
